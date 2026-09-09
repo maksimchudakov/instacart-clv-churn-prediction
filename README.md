@@ -1,4 +1,4 @@
-# Customer Churn Prediction | Instacart Grocery Data
+# Customer Churn & Lifetime Value Prediction | Instacart Grocery Data
 
 Predicting which customers are about to stop ordering — and segmenting 200k+ users into actionable risk tiers using real Instacart transaction data.
 
@@ -93,10 +93,10 @@ The biggest performance jump came from feature engineering — not from switchin
 ## Files
 
 ```
-├── Customer_Churn_Prediction_Instacart.ipynb  ← main notebook
-├── customer_risk_scores.csv                   ← scored customer table (output)
-├── churn_model.pkl                            ← trained model
-├── feature_importance.png                     ← feature importance chart
+├── Customer_Churn_&_Lifetime_Value_Prediction_for_Instacart.ipynb  ← main notebook
+├── customer_risk_scores.csv                                         ← scored customer table (output)
+├── churn_model.pkl                                                  ← trained model
+├── feature_importance.png                                           ← feature importance chart
 └── README.md
 ```
 
