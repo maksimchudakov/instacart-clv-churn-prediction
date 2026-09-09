@@ -114,9 +114,11 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ---
 
-## What I'd Do Next
+## Planned Upgrades
 
-- Add XGBoost and compare against Logistic Regression
-- Build a Tableau dashboard on top of `customer_risk_scores.csv`
-- Experiment with a time-based train/test split for more realistic evaluation
-- Connect to Snowflake for scalable data ingestion
+I'm actively planning to extend this project with the following:
+
+- Add XGBoost and compare against Logistic Regression and Random Forest
+- Build a Tableau dashboard on top of `customer_risk_scores.csv` for business reporting
+- Experiment with a time-based train/test split for more realistic model evaluation
+- Connect to Snowflake for scalable data ingestion and transformation
