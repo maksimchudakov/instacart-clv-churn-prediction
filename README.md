@@ -96,6 +96,7 @@ The biggest performance jump came from feature engineering — not from switchin
 ├── Customer_Churn_Prediction_Instacart.ipynb  ← main notebook
 ├── customer_risk_scores.csv                   ← scored customer table (output)
 ├── churn_model.pkl                            ← trained model
+├── feature_importance.png                     ← feature importance chart
 └── README.md
 ```
 
